@@ -6,6 +6,6 @@
 3) ShareBus
 
 # Following are the screen shots of my App running on console window:
-!{Screenshot 1}(https://github.com/santoshsekhar/p1FirstApp/blob/master/Output1.PNG)
+![Screenshot 1](https://github.com/santoshsekhar/p1FirstApp/blob/master/Output1.PNG)
 
-!{Screenshot 2}(https://github.com/santoshsekhar/p1FirstApp/blob/master/Output2.PNG)
+![Screenshot 2](https://github.com/santoshsekhar/p1FirstApp/blob/master/Output2.PNG)
